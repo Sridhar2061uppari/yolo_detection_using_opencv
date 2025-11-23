@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv*/
+.venv_cv_311/
+env/
+ENV/
+
+# YOLO
+*.pt
+runs/
+weights/
+
+# Videos
+sample/*.mp4
+videos/*.mp4
+videos/*.avi
+videos/*.mov
+*.mp4
+*.avi
+*.mov
+
+# Output
+output/
+results/
+
+# Environment
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
